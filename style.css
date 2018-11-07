@@ -1,0 +1,61 @@
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+body {
+  background-image: url('images/galaxy.jpg');
+  margin: 0 auto;
+  color: #070707;
+  font-family: 'Montserrat', sans-serif;
+  ;
+}
+
+h3 {
+  text-align: center;
+}
+
+.card {
+  background-color: #EFEFEF;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 20px;
+  box-shadow: 3px 4px 3px #b3b3b3;
+}
+
+.social_media {
+  font-size: 50px;
+  background-color: #EFEFEF;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 20px;
+  box-shadow: 3px 4px 3px #b3b3b3;
+}
+
+
+#fb_icon,
+#tw_icon,
+#li_icon,
+#git_icon {
+  list-style-type: none;
+  display: inline-block;
+  padding-right: 40px;
+}
+
+.fab {
+  display: inline-block;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+a {
+  text-decoration: none;
+
+}
+
+a.hover {
+  color: #b3b3b3;
+  opacity: 0.8;
+}
